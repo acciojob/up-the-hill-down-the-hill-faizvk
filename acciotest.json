@@ -1,0 +1,4 @@
+{
+  "testRepo": "up-the-hill-down-the-hill-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
